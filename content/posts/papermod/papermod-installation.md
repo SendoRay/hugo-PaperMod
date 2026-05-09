@@ -2,6 +2,7 @@
 title: "Install / Update PaperMod"
 summary: Read aboout Install and Update instructions and sampled configuration templates
 date: 2021-01-20
+weight: 1
 series: ["PaperMod"]
 aliases: ["/papermod-installation"]
 tags: ["PaperMod", "Docs"]
