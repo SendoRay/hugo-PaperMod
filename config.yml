@@ -45,7 +45,7 @@ languages:
           url: https://github.com/adityatelange/hugo-PaperMod/wiki/
 
   fr:
-    languageName: ":fr:"
+    languageName: "French"
     weight: 2
     title: PaperModL2
     taxonomies:
@@ -87,6 +87,7 @@ languages:
             url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
 
   fa:
+    languageName: "Farsi"
     languagedirection: rtl
     weight: 3
     title: PaperMod RTL
